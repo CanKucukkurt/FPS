@@ -7,8 +7,7 @@ public class MouseLook : MonoBehaviour
 {
     public float lookSpeed = 400.0f;
     public Transform body;
-    private float rotationX = 0;
-    
+    private float rotationX = 0;    
     // Start is called before the first frame update
     void Start()
     {
